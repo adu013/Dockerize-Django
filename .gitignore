@@ -3,3 +3,6 @@ env
 
 # Mac files (DS_Store)I’m
 .DS_Store
+
+# Local DB
+db.sqlite3
